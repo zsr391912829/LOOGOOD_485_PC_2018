@@ -14,14 +14,29 @@ My Email     (391912829@qq.com)           Tel : +86 13076956521
 
 
  
+# FILE INFO
 
-
-# 1.user_main.c
+## 1.user_main.c
 
   This file will tell you how to call the communication protocol ， don't use this file to your project. This file just tell you how to use,not code.
   
-# 2.agreemet.cs
+## 2.agreemet.cs
 
   This file will inform you of the specific content of the agreement，you can add this file to your project.   
   
   
+# System Info
+
+## 1.hardware 
+
+          usb - 485                     485 - 485
+   PC  <--------------->  GateWay   <---------------> Ballast
+
+
+## 2.software
+
+             json                          hex
+   PC  <--------------->  GateWay   <---------------> Ballast
+   
+   
+   
