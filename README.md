@@ -1,13 +1,16 @@
 # LOOGOOD_485_PC_2018
 some code about rs485
 
-#Warring
+# Warring
 This program is made by C# .
 We provide the relevant sample code，if you want to know the agreement.
 
 In the later period we will provide UART LIB, you could create  a new project by this lib for control our gateway.
 
+If you want to get the full project,please  contact me.
 
+My facebook （Account ： zsr391912829)
+ 
 
 
 # 1.user_main.c
